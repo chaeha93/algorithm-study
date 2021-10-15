@@ -1,4 +1,4 @@
-package nosubject_1006;
+
 
 import java.io.*;
 import java.util.*;
