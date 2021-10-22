@@ -103,7 +103,9 @@ public class Main_백준_20058_마법사상어와파이어스톰 {
 					x = j;
 					for(int b=i+l-1; b>=i; b--) {
 						arr[y][x++] = map[b][a];
+					//	System.out.println("y: " + y + " x: " + (x-1) + " b: " + b + " a: " + a);
 					}
+				//	System.out.println();
 					y++;
 				}
 			}
