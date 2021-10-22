@@ -1,6 +1,5 @@
 package implementation_0901;
 
-import java.io.*;
 import java.util.*;
 
 public class Main_백준_9498_시험성적 {
@@ -18,7 +17,5 @@ public class Main_백준_9498_시험성적 {
 		} else {
 			System.out.println("F");
 		}
-
 	}
-
 }
