@@ -8,10 +8,10 @@ public class Main_백준_5800_성적통계 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
 		StringBuilder sb = new StringBuilder();
-		int K = Integer.parseInt(br.readLine()); // ���� ��
+		int K = Integer.parseInt(br.readLine());
 		for(int k=1; k<=K; k++) {
 			st = new StringTokenizer(br.readLine(), " ");
-			int N = Integer.parseInt(st.nextToken()); // �л� ��
+			int N = Integer.parseInt(st.nextToken());
 			int[] score = new int[N];
 			for(int n=0; n<N; n++) {
 				score[n] = Integer.parseInt(st.nextToken());
