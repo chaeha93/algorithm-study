@@ -1,4 +1,4 @@
-package nosubject_1117;
+package implementation_0901;
 
 public class Main_백준_23234_TheWorldResponds {
 	public static void main(String[] args) {

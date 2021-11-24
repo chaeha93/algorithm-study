@@ -1,4 +1,4 @@
-package nosubject_1110;
+package string_0616;
 import java.io.*;
 
 public class Main_백준_2941_크로아티아알파벳 {
